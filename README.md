@@ -7,11 +7,17 @@
 
 ---
 
-**Language & Stack**
+**Experienced**
 
-![Java](https://img.shields.io/badge/Java-6DB33F?style=flat&logo=openJDK&logoColor=white)
-![badge](https://img.shields.io/badge/Spring-6DB33F%3Fstyle%3Dflat%26logo%3DSpring%26logoColor%3Dwhite?style=flat&logo=spring&logoColor=white&labelColor=%236DB33F&color=%236DB33F)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 **Contacts**
 
@@ -19,7 +25,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:beeniy97@gmail.com)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
