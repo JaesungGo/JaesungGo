@@ -20,5 +20,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:beeniy97@gmail.com)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaesungGo&layout=pie)](https://github.com/JaesungGo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaesungGo&layout=compact)](https://github.com/JaesungGo)
 
