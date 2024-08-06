@@ -15,6 +15,7 @@
 
 ---
 **Contacts**
+
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:beeniy97@gmail.com)
 
