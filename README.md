@@ -1,10 +1,12 @@
 **Hi there 👋**
 
----
+1년차 백엔드 주니어 개발자입니다.
 
+> 개발도 결국 함께하는 일이므로, 책임감 있는 커뮤니케이션을 지향합니다.
+
+---
 1. *Let's give it a shot*
 2. *Go all the way with it*
-
 ---
 
 **Language & Stack**
